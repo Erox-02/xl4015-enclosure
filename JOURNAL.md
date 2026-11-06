@@ -56,7 +56,7 @@ okk so done , i fixed all and made holes for the base tooo , now i can export an
 
 **Total time spent: 2.5 hours**
 
-# extra ventilation and readme 
+# extra ventilation  
 
 ok so today i have decided to add some extra ventilation and write the readme , last things for this proj 
 
@@ -88,5 +88,18 @@ ok done i added better screws just in case !
 ![](assets/better-screw.png)
 
 now last thing is readme in next journal 
+
+**Total time spent: 1 hours**
+
+# Readme
+
+ok so now we gonna write the readme , easy job 
+
+ok we got a vol of 
+22,478.3 mm^3
+for case and
+ nah robu did it for me 
+
+okk so i wrote the readme and done now i will push
 
 **Total time spent: 1 hours**
