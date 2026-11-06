@@ -55,3 +55,38 @@ okk so done , i fixed all and made holes for the base tooo , now i can export an
 ![](assets/hl-bs.png)
 
 **Total time spent: 2.5 hours**
+
+# extra ventilation and readme 
+
+ok so today i have decided to add some extra ventilation and write the readme , last things for this proj 
+
+okk so for the ventilation , i decided to do the same for my mini client pc t640 , it has straight lines pocketed , easy
+
+like this one look at the top 
+
+![](assets/vent.jpg)
+
+but as petg or pla isnt tht strong as steel i wd have to make the vents smaller 
+
+
+ok so i addded it and it looks pretty sick 
+
+![](assets/added_vents.png)
+
+but then the lid looked pretty non polished so i fillet'ed tht tooo 
+
+![](assets/filleted-up-lid.png)
+
+ok i changed the screw and placed it on top of the pcb one because well ihave a cool thing up in my sleeve , its specific type of screw and socket , lemme click a photo
+
+![](assets/screw_or_socket_idk_or_both.jpg)
+
+donneee  now i needa reexport , and write a readme 
+
+ok done i added better screws just in case !
+
+![](assets/better-screw.png)
+
+now last thing is readme in next journal 
+
+**Total time spent: 1 hours**
