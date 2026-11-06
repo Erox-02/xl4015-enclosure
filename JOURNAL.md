@@ -100,6 +100,8 @@ ok we got a vol of
 for case and
  nah robu did it for me 
 
-okk so i wrote the readme and done now i will push
+okk so i wrote the readme and done now i will push also calculated the prices
+
+![](assets/bom.png)
 
 **Total time spent: 1 hours**
